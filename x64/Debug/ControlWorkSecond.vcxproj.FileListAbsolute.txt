@@ -1,0 +1,5 @@
+C:\Users\ilyas\source\repos\ControlWorkSecond\x64\Debug\ControlWorkSecond.vcxprojAssemblyReference.cache
+C:\Users\ilyas\source\repos\ControlWorkSecond\x64\Debug\ControlWorkSecond.MyForm.resources
+C:\Users\ilyas\source\repos\ControlWorkSecond\x64\Debug\ControlWorkSecond.vcxproj.GenerateResource.cache
+C:\Users\ilyas\source\repos\ControlWorkSecond\x64\Debug\ControlWorkSecond.exe
+C:\Users\ilyas\source\repos\ControlWorkSecond\x64\Debug\ControlWorkSecond.pdb
